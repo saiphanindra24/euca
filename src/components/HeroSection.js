@@ -1,5 +1,8 @@
+import { useNavigate } from "react-router-dom";
+
 // src/components/HeroSection.jsx
 const HeroSection = () => {
+  const navigate = useNavigate()
   return (
     <div className="flex flex-col items-center justify-center bg-white px-6 py-12 text-center h-[500px]">
       <h1 className="text-5xl md:text-6xl font-bold text-black leading-tight">
@@ -14,7 +17,7 @@ const HeroSection = () => {
         with trusted vendors, offering a seamless shopping experience and a
         wide selection of eucalyptus varieties.
       </p>
-      <button className="mt-8 bg-black text-white py-3 px-8 text-lg rounded-md hover:bg-gray-800 transition duration-300 shadow-lg">
+      <button  onClick={()=>(navigate('./pages/Shop.js'))}className="mt-8 bg-black text-white py-3 px-8 text-lg rounded-md hover:bg-gray-800 transition duration-300 shadow-lg">
         Shop Now
       </button>
     </div>

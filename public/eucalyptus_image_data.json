@@ -1,0 +1,86 @@
+{
+    "Eucalyptus Leaves": [
+        {
+            "name": "Fresh Eucalyptus Leaves in a Basket",
+            "url": "https://example.com/leaves1.jpg"
+        },
+        {
+            "name": "Close-up of Eucalyptus Leaves with Water Droplets",
+            "url": "https://example.com/leaves2.jpg"
+        },
+        {
+            "name": "Eucalyptus Branches Against a White Background",
+            "url": "https://example.com/leaves3.jpg"
+        }
+    ],
+    "Dried Eucalyptus": [
+        {
+            "name": "Bundle of Dried Eucalyptus Stems",
+            "url": "https://example.com/dried1.jpg"
+        },
+        {
+            "name": "Dried Eucalyptus Wreath",
+            "url": "https://example.com/dried2.jpg"
+        },
+        {
+            "name": "Close-up of Dried Eucalyptus Leaves",
+            "url": "https://example.com/dried3.jpg"
+        }
+    ],
+    "Eucalyptus Products": [
+        {
+            "name": "Eucalyptus Essential Oil Bottles",
+            "url": "https://example.com/products1.jpg"
+        },
+        {
+            "name": "Eucalyptus Scented Candles",
+            "url": "https://example.com/products2.jpg"
+        },
+        {
+            "name": "Eucalyptus Bath Bombs",
+            "url": "https://example.com/products3.jpg"
+        }
+    ],
+    "Premium Products": [
+        {
+            "name": "Luxury Skincare Set with Eucalyptus",
+            "url": "https://example.com/premium1.jpg"
+        },
+        {
+            "name": "High-End Eucalyptus Scented Candle",
+            "url": "https://example.com/premium2.jpg"
+        },
+        {
+            "name": "Premium Eucalyptus Essential Oil Collection",
+            "url": "https://example.com/premium3.jpg"
+        }
+    ],
+    "Nature Treasures": [
+        {
+            "name": "Eucalyptus with Natural Stones",
+            "url": "https://example.com/nature1.jpg"
+        },
+        {
+            "name": "Eucalyptus and Wildflowers",
+            "url": "https://example.com/nature2.jpg"
+        },
+        {
+            "name": "Eucalyptus in a Forest Setting",
+            "url": "https://example.com/nature3.jpg"
+        }
+    ],
+    "Organic Collection": [
+        {
+            "name": "Organic Eucalyptus Soap",
+            "url": "https://example.com/organic1.jpg"
+        },
+        {
+            "name": "Organic Eucalyptus Shampoo",
+            "url": "https://example.com/organic2.jpg"
+        },
+        {
+            "name": "Organic Eucalyptus Face Wash",
+            "url": "https://example.com/organic3.jpg"
+        }
+    ]
+}
